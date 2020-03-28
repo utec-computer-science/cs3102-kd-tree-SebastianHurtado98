@@ -12,3 +12,16 @@
 	* Use modularization
 	* User Traits for specialization 
 	* Print tree in console (level print)
+
+
+# TODO
+Cambiar los Ts por Types como en el paper.
+borrar casi todo tipo de data estatica.
+Pasar valores por referencia porque pueden ser cualquier elemento no? 
+
+Hacer clase de 2d node que herede de node?
+Hacer clase de 2d kd tree que herede de kd tree?  mucha chamba
+
+darle privacidad a la clase con friend, como declarar friend KdTree.
+
+Fácil Node debe ser un struct.
